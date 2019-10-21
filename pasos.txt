@@ -1,0 +1,7 @@
+Anselmo Darrain
+
+
+cd carpeta del tp.
+Dentro de la carpeta del tp.
+git init
+copio el archivo a la carpeta.
