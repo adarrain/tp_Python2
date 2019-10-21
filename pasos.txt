@@ -4,4 +4,44 @@ Anselmo Darrain
 cd carpeta del tp.
 Dentro de la carpeta del tp.
 git init
-copio el archivo a la carpeta.
+copio el archivo html y la carpeta con el tp a la carpeta actual.
+guardo este archivo tambien.
+git add pasos.txt
+git add TP2_GIT.html
+git add TP2_GIT_files
+git commit -m "Commit de Anselmo"
+
+git push https://github.com/adarrain/tp_Python2.git master
+
+Git es un software de control de versiones. Se usa para mejorar la eficiencia y la confiabilidad 
+en el mantenimiento de codigo fuente, para llevar el registro de cambios en computadora y 
+coordinar el trabajo de varias personas sobre archivos compartidos.
+
+Git hub es el sitio que aloja proyectos que usan el sistema de control de versiones git.
+
+gitlab es un sitio similar a github que ademas ofrece algunas funciones mas.
+
+Diferencias:
+
+GitHub repositorios free privados ilimitados pero con un maximo de 3 colaboradores, 
+	hasta 1 gb y cada archivo no puede superar los 100mb.
+GitLab Repositorios free privados ilimitados pero sin limites de colaboradores. 
+	hasta 10gb 
+
+Los sitios se usan mediante el uso de Git para trabajar y controlar el codigo.
+Los datos los pueden usar las personas que tengan una cuenta en el sitio y que formen 
+parte de un proyecto.
+Colocaria pequeños proyectos en github o lo usaria para aprender y proyectos mas grandes 
+en gitlab.
+Los principales comandos son los que escribi arriba.
+Init para iniciar el repo.
+add para agregar archivos.
+commit para guardar el cambio.
+push para subir el codigo.
+
+
+	
+
+
+
+
